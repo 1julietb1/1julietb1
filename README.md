@@ -1,7 +1,7 @@
 
 <h2>  Hello, I'm Yuliya Bogonos! 👋 </h2>
 
-<p><em> Feel free to leave a  <a href="mailto:yuliyabogonos@gmail.com"><img src="https://media.giphy.com/media/Eo23lJ7Pq10mqUDPjn/giphy.gif" width="50" /></a></br>
+<p><em> Feel free to leave a  <a href="mailto:yuliyabogonos@gmail.com"><img src="mail.png" width="50" /></a></br>
 
 
 Or
